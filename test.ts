@@ -1,1 +1,1 @@
-// テストはここに来ます。このパッケージが拡張機能として使用されるときにはコンパイルされません。
+// tests go here; this will not be compiled when this package is used as an extension.
